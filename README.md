@@ -152,10 +152,6 @@ SLA and response-time monitoring
 
 Agent performance recommendation systems
 
-🔗 Project Links
-
-LinkedIn Post:
-https://www.linkedin.com/posts/tapan-kumar-mahato_powerbi-dataanalytics-dashboarddesign-activity-7407736785725947905-sitx
 
 👤 Author
 
